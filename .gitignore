@@ -1,7 +1,8 @@
-db.sqlite3
-geckodriver.log
-virtualenv
+venv/
 .vscode/
-__pycache__
-*.pyc
-/static
+virtualenv/
+superlists/__pycache__/
+lists/migrations/__pycache__/
+lists/__pycache__/
+geckodriver.log
+functional_tests/__pycache__/
