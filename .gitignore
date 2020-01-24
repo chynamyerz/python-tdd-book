@@ -6,3 +6,4 @@ lists/migrations/__pycache__/
 lists/__pycache__/
 geckodriver.log
 functional_tests/__pycache__/
+.env
